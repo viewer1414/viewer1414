@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viewer1414
 - 👀 I’m interested in React.js
-- 🌱 I’m currently learning mongo db & node.js
-- 💞️ I’m looking to collaborate on mern stack dev
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate 
 - 📫 reach me on social media
 
 <!---
